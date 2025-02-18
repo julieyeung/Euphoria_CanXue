@@ -831,6 +831,7 @@ body {
         height: 8760px; 
         position: relative; 
         background: white;
+        overflow-x: hidden;
       }
   
       .text1{
