@@ -830,6 +830,7 @@ body {
         position: relative; 
         background: white;
         overflow-x: hidden;
+        background-color: #C4862D;
       }
   
       .text1{
@@ -1026,6 +1027,7 @@ body {
       font-family: Lato; 
       font-weight: 300; 
       word-wrap: break-word;
+      color: #B32F26;
     }
 
     .Blurred1{
@@ -1088,6 +1090,7 @@ body {
       font-family: Bodoni 72; 
       font-weight: 700; 
       word-wrap: break-word;
+      color: #B32F26;
     }
 
     .quote2{
@@ -1127,6 +1130,7 @@ body {
       font-weight: 400; 
       word-wrap: break-word;
       color: black; 
+      color: #B32F26;
     }
 
     .E{
