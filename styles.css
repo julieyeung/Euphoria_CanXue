@@ -3,7 +3,6 @@ body {
   overflow-x: hidden; 
   overflow-y: auto; 
   width: 100%;
-   background-color: #C4862D;
   }
   
   .container {
@@ -21,8 +20,8 @@ body {
     left: -369px; 
     top: 2024px; 
     position: absolute; 
-    opacity: 0.30; 
-    background: #FCE0DA;
+    opacity: 0.40; 
+    background: #D9D9D9;
   }
   
   .box2 {
@@ -31,8 +30,8 @@ body {
    left: 242px; 
    top: 200px; 
    position: absolute; 
-   opacity: 0.20; 
-   background: #FCE1DC;
+   opacity: 0.30; 
+   background: #D9D9D9;
   }
 
   .box3{
@@ -41,8 +40,8 @@ body {
     left: -309px; 
     top: 596px; 
     position: absolute; 
-    opacity: 0.35; 
-    background: #B9887E;
+    opacity: 0.20; 
+    background: #D9D9D9;
 
   }
 
@@ -63,9 +62,20 @@ body {
     left: 383px; 
     top: 5132px; 
     position: absolute; 
-    opacity: 0.50; 
-    background: #F9DDD7;
+    opacity: 0.70; 
+    background: #D9D9D9;
   }
+
+.rectangle2{
+   width: 3.387vw; 
+   height: 29.754vh; 
+   left: 287px; 
+   top: 4853px; 
+   position: absolute; 
+   opacity: 0.70; 
+   background: #D9D9D9;
+  }
+
 
   .rectangle3{
     width: 3.387vw; 
@@ -73,8 +83,8 @@ body {
     left: 287px; 
     top: 4853px; 
     position: absolute; 
-    opacity: 0.50; 
-    background: #F9DDD7;
+    opacity: 0.70; 
+    background: #D9D9D9;
    }
 
 .rectangle4{
@@ -84,7 +94,7 @@ body {
   top: 1081px; 
   position: absolute; 
   opacity: 0.70; 
-  background: #BB897D;
+  background: #D9D9D9;
 }
 
 .rectangle5{
@@ -94,7 +104,7 @@ body {
   top: 1994px; 
   position: absolute; 
   opacity: 0.70; 
-  background: #BB897D;
+  background: #D9D9D9;
 }
 
 .rectangle6{
@@ -103,8 +113,8 @@ body {
   left: 1238px; 
   top: 2441px; 
   position: absolute; 
-  opacity: 0.35; 
-  background: #FCE0DA;
+  opacity: 0.40; 
+  background: #9C9C9C;
 }
 
 .rectangle7{
@@ -492,7 +502,7 @@ body {
       font-family: Bodoni 72; 
       font-weight: 400;
       word-wrap: break-word;
-      color: #B12C24;
+      color: black; 
     }
 
     .more{
@@ -520,7 +530,6 @@ body {
       font-family: Bodoni 72;
       font-weight: 700; 
       word-wrap: break-word;
-      color: #B12C24;
     }
 
     .quote2{
@@ -547,7 +556,6 @@ body {
       font-family: Lato; 
       font-weight: 300; 
       word-wrap: break-word;
-      color: #B12C24;
     }
 
     .quote4{
@@ -564,7 +572,6 @@ body {
       font-family: Bodoni 72; 
       font-weight: 700; 
       word-wrap: break-word;
-      color: #B12C24;
     }
 
     .author{
@@ -730,7 +737,6 @@ body {
       font-family: Bodoni 72; 
       font-weight: 700; 
       word-wrap: break-word;
-      color: #B12C24;
     }
 
     .R{
@@ -758,7 +764,6 @@ body {
       font-family: Bodoni 72; 
       font-weight: 400; 
       word-wrap: break-word;
-      color: #B12C24;
     }
 
     .O{
@@ -785,7 +790,6 @@ body {
     font-family: Bodoni 72; 
     font-weight: 700; 
     word-wrap: break-word;
-    color: #B12C24;
     }
 
     .E{
@@ -830,7 +834,7 @@ body {
         position: relative; 
         background: white;
         overflow-x: hidden;
-        background-color: #C4862D;
+        background-color: white;
       }
   
       .text1{
@@ -1027,7 +1031,6 @@ body {
       font-family: Lato; 
       font-weight: 300; 
       word-wrap: break-word;
-      color: #B32F26;
     }
 
     .Blurred1{
@@ -1090,7 +1093,6 @@ body {
       font-family: Bodoni 72; 
       font-weight: 700; 
       word-wrap: break-word;
-      color: #B32F26;
     }
 
     .quote2{
@@ -1130,7 +1132,6 @@ body {
       font-weight: 400; 
       word-wrap: break-word;
       color: black; 
-      color: #B32F26;
     }
 
     .E{
